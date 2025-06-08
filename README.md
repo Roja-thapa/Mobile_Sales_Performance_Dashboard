@@ -43,7 +43,7 @@ To build a visual analytics solution that monitors mobile sales performance and 
 
 
 ## 📸 Sample Visual
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/Roja-thapa/Mobile_Sales_Performance_Dashboard/blob/main/MOBILE_SALES_dashboard.jpg)
 
 
 
