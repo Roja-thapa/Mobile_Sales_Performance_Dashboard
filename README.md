@@ -57,5 +57,5 @@ To build a visual analytics solution that monitors mobile sales performance and 
 
 ## 🔗 Connect With Me
 📧 rojathapa28@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/roja-thapa)
+🔗 [LinkedIn](https://www.linkedin.com/in/roja-thapa/)
 
